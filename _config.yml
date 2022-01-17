@@ -3,7 +3,7 @@ url: "https://10kH.github.io"
 baseurl:
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+ins_logo: "./bits-logo.jpeg"
 
 tracking_id: #
 
