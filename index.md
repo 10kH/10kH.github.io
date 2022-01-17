@@ -21,5 +21,4 @@ Reinforcement Learning, Machine Reading Comprehension.
 
 ## References
 
-* Harksoo Kim: [Advisor](http://nlp.konkuk.ac.kr/bbs/content.php?co_id=Professor)
-
+* [Harksoo Kim](http://nlp.konkuk.ac.kr/bbs/content.php?co_id=Professor) : Advisor
