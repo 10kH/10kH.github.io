@@ -6,8 +6,7 @@ layout: default
 
 <img class="profile-picture" src="woojin.jpeg">
 
-Hi! I'm Woojin Lee.  
-I'm an undergraduate intern at Konkuk University's NLP lab. 
+Hi! I'm an undergraduate intern at Konkuk University's NLP lab. 
 
 ## Research Interest
 

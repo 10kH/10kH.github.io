@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://10kh.github.io"
-baseurl: "https://10kh.github.io/researcher"
+title: Woojin Lee
+url: "https://10kH.github.io"
+baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
