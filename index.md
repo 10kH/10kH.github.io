@@ -16,7 +16,7 @@ Reinforcement Learning, Machine Reading Comprehension.
 
 ## News
 
-[KISTI 연구데이터·AI 분석활용 경진대회 원장상 수상](https://www.hellodd.com/news/articleView.html?idxno=95124)
+[KISTI 연구데이터·AI 분석활용 경진대회 KISTI원장상 수상](https://www.hellodd.com/news/articleView.html?idxno=95124)
 
 ## References
 
