@@ -8,13 +8,13 @@ layout: default
 
 Hi! I'm an undergraduate intern at Konkuk University's NLP lab. 
 
-## Research Interest
-
-Reinforcement Learning, Machine Reading Comprehension.
-
 ## Education
 
 B.S. - Konkuk University (2017.03-2023.02)
+
+## Research Interest
+
+Reinforcement Learning, Machine Reading Comprehension.
 
 ## Publications
 
