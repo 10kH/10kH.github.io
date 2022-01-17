@@ -14,7 +14,7 @@ Reinforcement Learning, Machine Reading Comprehension.
 
 ## Education
 
-B.S. - Konkuk University (2017.03~2023.02)
+B.S. - Konkuk University (2017.03-2023.02)
 
 ## Publications
 
