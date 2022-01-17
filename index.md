@@ -12,11 +12,15 @@ Hi! I'm an undergraduate intern at Konkuk University's NLP lab.
 
 Reinforcement Learning, Machine Reading Comprehension.
 
+## Education
+
+B.S. - Konkuk University (2017.03~2023.02)
+
 ## Publications
 
 ## News
 
-[KISTI 연구데이터·AI 분석활용 경진대회 KISTI원장상 수상](https://www.hellodd.com/news/articleView.html?idxno=95124)
+[KISTI 연구데이터·AI 분석활용 경진대회 원장상 수상](https://www.hellodd.com/news/articleView.html?idxno=95124)
 
 ## References
 
