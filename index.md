@@ -10,7 +10,7 @@ Hi! I'm an undergraduate intern at Konkuk University's NLP lab.
 
 ## Education
 
-B.S. - Konkuk University (2017.03-2023.02)
+B.S. in Konkuk University (2017.03-2023.02)
 
 ## Research Interest
 
