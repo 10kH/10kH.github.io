@@ -7,16 +7,16 @@ layout: default
 <img class="profile-picture" src="woojin.jpeg">
 
 Hi! I'm an undergraduate student of Konkuk University.  
-I wanna be an AI research scientist.
 
 ## Education
 
 B.S. in Konkuk University (2017.03-2023.02)
 - Dept. of civil & environmental engineering 
-    - major in smart city & software convergence
+    - major in smart city & software
 
 ## Research Interests
 
+- Machine Reading Comprehension
 - Reinforcement Learning
 
 ## News
