@@ -6,8 +6,8 @@ layout: default
 
 <img class="profile-picture" src="woojin.jpeg">
 
-Hi! I'm an undergraduate intern of NLP lab in Konkuk University.  
-My advisor is Prof. Harksoo Kim. 
+Hi! I'm an undergraduate intern in NLP lab at Konkuk University.  
+My advisor is Prof. Harksoo Kim.  
 
 ## Education
 
@@ -18,8 +18,8 @@ B.S. in Konkuk University (2017.03-2023.02)
 ## Research Interests
 
 - NLP
+- Question Answering
 - Sentimental Analysis
-- Reinforcement Learning
 
 ## News
 
