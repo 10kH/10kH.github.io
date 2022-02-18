@@ -12,14 +12,12 @@ My advisor is Prof. Harksoo Kim.
 ## Education
 
 B.S. in Konkuk University (2017.03-2023.02)
-- Dept. of civil & environmental engineering 
-    - major in smart city & software
 
 ## Research Interests
 
 - NLP
 - Question Answering
-- Sentimental Analysis
+- Named Entity Recognition
 
 ## News
 
