@@ -15,8 +15,8 @@ B.S. in Konkuk University (2017.03-2023.02)
 
 ## Research Interests
 
-- NLP
 - Question Answering
+- Relation Extraction
 - Named Entity Recognition
 
 ## News
